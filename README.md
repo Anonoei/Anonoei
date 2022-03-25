@@ -17,26 +17,30 @@
      /@@@@@@@@@@QW%%%%gXXg%%%%WQ@@@@@@@@@@\    /   /  /\  \   \
     :@@@@@@@@@@Q%%%%%N|  |N%%%%%B@@@@@@@@@@:  /___/__/  \__\___\
     #@@@@@@@@@Q#####K,    ,p#####B@@@@@@@@@#   0x416e6f6e6f6569
- - I make things. I typically create music, programs, videos and images. I'm a strong believer in open source hardware/software. I primarily write in C++ and Python, and use the GPLv3 or MIT license. I dualboot Linux and Windows.
+ I make things
  - Organization: DAAV, LLC
-   - [Website](https://daav.us)
+   - [Website (daav.us)](https://daav.us)
    - [GitHub](https://github.com/daavofficial)
+   - [Discord](https://daav.us/dv_discord)
+   - [Reddit Community (r/daav)](https://daav.us/dv_redditpage)
  - Social
-   - [Website](https://anonoei.com)
-   - [Email (contact@anonoei.com)](https://anonoei.com/contact)
-   - [GitHub (Anonoei)](https://github.com/Anonoei)
-   - [YouTube (Anonoei)](https://youtube.com/Anonoei)
-   - [Twitch (Anonoei)](https://www.twitch.tv/Anonoei)
-   - [Twitter (Anonoei0x)](https://twitter.com/Anonoei0x)
-   - [Instagram (Anonoei0x)](https://instagram.com/Anonoei0x)
-   - [Facebook (Anonoei)](https://facebook.com/Anonoei)
-   - [TikTok (Anonoei)](https://www.tiktok.com/@anonoei)
+   - [Website (anonoei.com)](https://anonoei.com)
+   - [Email](https://anonoei.com/contact) [(contact@anonoei.com)](mailto:contact@anonoei.com)
+   - [GitHub (Anonoei)](https://daav.us/ano_github)
+   - [YouTube (Anonoei)](https://daav.us/ano_youtube)
+   - [Twitch (Anonoei)](https://daav.us/ano_twitch)
+   - [Twitter (Anonoei0x)](https://daav.us/ano_twitter)
+   - [Instagram (Anonoei0x)](https://daav.us/ano_instagram)
+   - [Reddit Community (r/Anonoei)](https://daav.us/ano_redditpage)
+   - [Facebook (Anonoei)](https://daav.us/ano_facebook)
+   - [TikTok (Anonoei)](https://daav.us/ano_tiktok)
+   - [Snapchat (Anonoei0x)](https://daav.us/ano_snapchat)
  - Music
-   - [Spotify](https://open.spotify.com/artist/147k0FEE01QnQsczuWc8LF)
-   - [Apple Music](https://music.apple.com/us/artist/anonoei/1476157792)
-   - [Amazon Music](https://music.amazon.com/artists/B098R7C7VW/anonoei)
-   - [iHeart Radio](https://www.iheart.com/artist/anonoei-36510300/)
-   - [Deezer](https://www.deezer.com/us/artist/138350182)
+   - [Spotify](https://daav.us/ano_spotify)
+   - [Apple Music](https://daav.us/ano_applemusic)
+   - [Amazon Music](https://daav.us/ano_amazonmusic)
+   - [iHeart](https://daav.us/ano_iheart)
+   - [Deezer](https://daav.us/ano_deezer)
    - And more
  - Production Software
    - [Visual Studio (C++)](https://visualstudio.microsoft.com/)
