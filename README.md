@@ -1,46 +1,63 @@
-                 s@@@@@@@@@@@@s             
-                ;@@@@@@@@@@@@@@!            
-               .Q@@@@@@@@@@@@@@Q.           
-               O@@@@@@@@@@@@@@@@O           
-              t@@@@QBg8%%RgBQ@@@@t          
-             :@@@@g%%%W##W%%%g@@@@:         
-            .Q@@@W%%%N@7c@#%%%W@@@Q.        
-            d@@@Q%%%%QK  pQ%%%%Q@@@b        
-           7@@@QW%%%%Q.  .Q%%%%WQ@@@7       
-          !@@@B%%%%%%W    W%%%%%%B@@@!      
-         `Q@@@@Q%%%%%#\  /#%%%%%Q@@@@Q`              ____
-         9@@@@@@QW%%%%gXXg%%%%WQ@@@@@@9             / __ \
-        7@@@@@@@@@B%%%%%%%%%%B@@@@@@@@@7           / /  \ \
-       :@@@@@@@@@@@QW%%%%%%WQ@@@@@@@@@@@:         / / /\ \ \
-      `Q@@@@@@@@@@@QW%%%%%%8Q@@@@@@@@@@@Q`       / /  \/  \ \
-      p@@@@@@@@@@@B%%%%%%%%%%B@@@@@@@@@@@q      /   \    /   \
-     /@@@@@@@@@@QW%%%%gXXg%%%%WQ@@@@@@@@@@\    /   /  /\  \   \
-    :@@@@@@@@@@Q%%%%%N|  |N%%%%%B@@@@@@@@@@:  /___/__/  \__\___\
-    #@@@@@@@@@Q#####K,    ,p#####B@@@@@@@@@#   0x416e6f6e6f6569
- I make things
+```
+                ^~~:.::::::::::::.^!~~                   
+               ^77!:Y555555555555Y:7??~                  
+              :77!.J55555555555555J:7??^                 
+             :!77:7P5555PPPP55555557:???:                
+            .!77^~5555Y??77777?Y5555~^??7.               
+            ~77~^5557~~77?????7!~7Y5Y:!??!               
+           ^77!:Y5J^!?JJJ7!!7JJJ?!^J5J:7??~              
+          :77!.?5Y:7JJJJ^ !! ^?JJJ7:Y5?:???^             
+         .!77:!55!^JJJJ7 ^YY^ 7JJJJ^~55!:???:            
+        .!77^~55?:7J??J~.?YY?.~JJJJ7:?55~~??7.           
+        ~77~:Y?^~?J???J~^?JJ7:~J?????~^?Y:!??!           
+       ^77!:J5?:!JJJ??J!:?7!7.!??????!:?5J:7??~          
+      :77!.?5Y5Y!^7JJJJJ~^:.:~J???J7^~YYY5?:???^         
+     .!77:!5YYYY5J^~?JJJJ7^^7JJ???~^?YYYYY5!^???:                  ________
+    .!77^^YYYYYYYYY!^7J??JJJJ??J7^!YYYYYYYYY^~??7.                / / __ \ \
+    ~77~:YYYYYYYYYY5J^^?????JJ?^^J5YYYYYYYYYY:!??!               / / /  \ \ \
+   ^77!.?YYYYYYYYY55J^~?JJJJJJ?~^J5YYYYYYYYY5J:7??~             / / / /\ \ \ \
+  :77!.7YYYYYYYY5J~^^7JJJJ??JJJJ7^^~?YYYYYY555?:???^           / / \  \/  / \ \
+ .!77:~YYYYYYYYYY: ~?JJJJ7..7JJ???~.:YYYYYY5555!^???.         / /   \    /   \ \
+.!77^^YYYYYYYY5Y~:?JJJJ?^    ^?????7^^Y5YY555555^~??7.       / /   /  /\  \   \ \
+~77~:JYYYYYYYY?:!J????7.      .!?????!:?YYYY5555Y:!??!      /_/___/__/  \__\___\_\
+^^~:.:::::::::..:.....          .....:. :::::::::.:\~\~\~.     0x416e6f6e6f6569
+```
+ I make stuff
  - Organization: DAAV, LLC
    - [Website (daav.us)](https://daav.us)
-   - [GitHub](https://github.com/daavofficial)
+   - [GitHub](https://github.com/daavllc)
    - [Discord](https://daav.us/dv_discord)
-   - [Reddit Community (r/daav)](https://daav.us/dv_redditpage)
+   - [Reddit Community (r/daav)](https://daav.us/subreddit)
+
+ - [Website (anonoei.com)](https://anonoei.com)
+ - [Social links](https://anonoei.com/social)
+ - [Email](mailto:contact@anonoei.com) (contact@anonoei.com)
+
+ - Productions
+   - [GitHub (Anonoei)](https://anonoei.com/github)
+   - [YouTube (Anonoei)](https://anonoei.com/youtube)
+   - [Twitch (Anonoei)](https://anonoei.com/twitch)
+   - [TikTok (Anonoei)](https://anonoei.com/tiktok)
  - Social
-   - [Website (anonoei.com)](https://anonoei.com)
-   - [Email](https://anonoei.com/contact) [(contact@anonoei.com)](mailto:contact@anonoei.com)
-   - [GitHub (Anonoei)](https://daav.us/ano_github)
-   - [YouTube (Anonoei)](https://daav.us/ano_youtube)
-   - [Twitch (Anonoei)](https://daav.us/ano_twitch)
-   - [Twitter (Anonoei0x)](https://daav.us/ano_twitter)
-   - [Instagram (Anonoei0x)](https://daav.us/ano_instagram)
-   - [Reddit Community (r/Anonoei)](https://daav.us/ano_redditpage)
-   - [Facebook (Anonoei)](https://daav.us/ano_facebook)
-   - [TikTok (Anonoei)](https://daav.us/ano_tiktok)
-   - [Snapchat (Anonoei0x)](https://daav.us/ano_snapchat)
+   - [Instagram (Anonoei0x)](https://anonoei.com/instagram)
+   - [Subreddit (r/Anonoei)](https://anonoei.com/subreddit)
+   - [Discord](https://anonoei.com/discord)
+   - [Twitter (Anonoei0x)](https://anonoei.com/twitter)
+   - [Reddit (u/Anonoei)](https://anonoei.com/reddit)
+   - [Facebook (Anonoei)](https://anonoei.com/facebook)
+   - [Pinterest (Anonoei)](https://anonoei.com/pinterest)
+   - [Patreon (Anonoei)](https://anonoei.com/patreon)
+   - [Telegram (@Anonoei)](https://anonoei.com/telegram)
+   - [Snapchat (Anonoei0x)](https://anonoei.com/snapchat)
  - Music
-   - [Spotify](https://daav.us/ano_spotify)
-   - [Apple Music](https://daav.us/ano_applemusic)
-   - [Amazon Music](https://daav.us/ano_amazonmusic)
-   - [iHeart](https://daav.us/ano_iheart)
-   - [Deezer](https://daav.us/ano_deezer)
+   - [Spotify](https://anonoei.com/spotify)
+   - [Apple Music](https://anonoei.com/applemusic)
+   - [Amazon Music](https://anonoei.com/amazonmusic)
+   - [TIDAL](https://anonoei.com/tidal)
+   - [Pandora](https://anonoei.com/pandora)
+   - [YouTube Music](https://anonoei.com/youtubemusic)
+   - [iHeart](https://anonoei.com/iheart)
+   - [Deezer](https://anonoei.com/deezer)
    - And more
  - Production Software
    - [Visual Studio (C++)](https://visualstudio.microsoft.com/)
