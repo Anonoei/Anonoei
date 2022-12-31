@@ -23,11 +23,11 @@
 ^^~:.:::::::::..:.....          .....:. :::::::::.:\~\~\~.     0x416e6f6e6f6569
 ```
  I make stuff
- - Organization: DAAV, LLC
-   - [Website (daav.us)](https://daav.us)
-   - [GitHub](https://github.com/daavllc)
-   - [Discord](https://daav.us/dv_discord)
-   - [Reddit Community (r/daav)](https://daav.us/subreddit)
+- Organization: Quverus LLC
+   - [Website (quver.us)](https://quver.us)
+   - [GitHub](https://quver.us/github)
+   - [Discord](https://quver.us/discord)
+   - [Reddit Community (r/QuverusLLC)](https://quver.us/subreddit)
 
  - [Website (anonoei.com)](https://anonoei.com)
  - [Social links](https://anonoei.com/social)
