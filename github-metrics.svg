@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            366 Commits
+                            368 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -222,67 +222,35 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
                         <g transform="translate(0,276)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
                             <path class="domain" stroke="currentColor" d="M39.5,6V0.5H441.5V6"/>
-                            <g class="tick" opacity="1" transform="translate(53.446938775510205,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">February</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(76.41836734693877,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">March</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(101.85102040816327,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">April</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(126.46326530612245,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">May</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(151.89591836734695,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">June</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(176.5081632653061,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">July</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(201.94081632653064,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">August</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(227.3734693877551,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">September</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(251.98571428571427,0)">
+                            <g class="tick" opacity="1" transform="translate(39.5,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">October</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(277.4183673469388,0)">
+                            <g class="tick" opacity="1" transform="translate(93.44805194805195,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">November</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(302.03061224489795,0)">
+                            <g class="tick" opacity="1" transform="translate(145.65584415584416,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">December</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(327.4632653061225,0)">
+                            <g class="tick" opacity="1" transform="translate(199.6038961038961,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">2024</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(352.89591836734695,0)">
+                            <g class="tick" opacity="1" transform="translate(253.55194805194802,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">February</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(376.6877551020408,0)">
+                            <g class="tick" opacity="1" transform="translate(304.0194805194805,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">March</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(402.1204081632653,0)">
+                            <g class="tick" opacity="1" transform="translate(357.96753246753246,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">April</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(426.7326530612245,0)">
+                            <g class="tick" opacity="1" transform="translate(410.17532467532465,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">May</text>
                             </g>
@@ -318,8 +286,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−600k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L142.371,140.5L251.486,140.5L257.229,140.5L262.971,140.5L268.714,140.5L274.457,140.5L280.2,140.5L314.657,140.5L326.143,140.5L331.886,140.5L337.629,140.5L343.371,140.5L372.086,140.5L377.829,140.5L412.286,140.5L423.771,140.5L429.514,140.5L435.257,140.5L441,140.5L441,138.08L435.257,140.011L429.514,138.81L423.771,139.842L412.286,132.285L377.829,140.499L372.086,136.399L343.371,140.499L337.629,140.486L331.886,140.433L326.143,137.573L314.657,5L280.2,140.497L274.457,140.387L268.714,140.494L262.971,140.313L257.229,140.31L251.486,140.336L142.371,140.415L39,140.486Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L142.371,140.5L251.486,140.5L257.229,140.5L262.971,140.5L268.714,140.5L274.457,140.5L280.2,140.5L314.657,140.5L326.143,140.5L331.886,140.5L337.629,140.5L343.371,140.5L372.086,140.5L377.829,140.5L412.286,140.5L423.771,140.5L429.514,140.5L435.257,140.5L441,140.5L441,141.116L435.257,140.752L429.514,141.41L423.771,140.683L412.286,144.594L377.829,140.5L372.086,140.501L343.371,140.5L337.629,140.502L331.886,140.506L326.143,142.108L314.657,140.503L280.2,140.501L274.457,140.58L268.714,140.507L262.971,140.574L257.229,140.565L251.486,140.59L142.371,140.511L39,140.507Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L51.182,140.5L63.364,140.5L75.545,140.5L87.727,140.5L99.909,140.5L160.818,140.5L173,140.5L197.364,140.5L209.545,140.5L221.727,140.5L233.909,140.5L294.818,140.5L307,140.5L380.091,140.5L404.455,140.5L428.818,140.5L441,140.5L441,139.981L428.818,140.495L404.455,139.843L380.091,132.285L307,140.499L294.818,136.399L233.909,140.499L221.727,140.486L209.545,140.433L197.364,137.573L173,5L160.818,140.406L99.909,140.497L87.727,140.387L75.545,140.494L63.364,140.313L51.182,140.31L39,140.336Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L51.182,140.5L63.364,140.5L75.545,140.5L87.727,140.5L99.909,140.5L160.818,140.5L173,140.5L197.364,140.5L209.545,140.5L221.727,140.5L233.909,140.5L294.818,140.5L307,140.5L380.091,140.5L404.455,140.5L428.818,140.5L441,140.5L441,140.507L428.818,140.538L404.455,140.682L380.091,144.594L307,140.5L294.818,140.501L233.909,140.5L221.727,140.502L209.545,140.506L197.364,142.108L173,140.503L160.818,140.5L99.909,140.501L87.727,140.58L75.545,140.507L63.364,140.574L51.182,140.565L39,140.59Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -440,14 +408,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="438.0543533952928" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="438.0543533952928" y="0" width="10.190399203310701" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="448.2447525986035" y="0" width="8.920646759173739" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="457.16539935777723" y="0" width="0.9334583001278406" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="458.09885765790506" y="0" width="0.645282069461204" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.7441397273663" y="0" width="0.4533947904183629" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.1975345177847" y="0" width="0.21822396746628747" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="459.41575848525093" y="0" width="0.584241514749071" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="438.05087532891366" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="438.05087532891366" y="0" width="10.190318293522715" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="448.24119362243636" y="0" width="8.920575930973236" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="457.1617695534096" y="0" width="0.9334508886504638" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="458.09522044206005" y="0" width="0.6489292565925432" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.74414969865256" y="0" width="0.45339119055189697" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.19754088920445" y="0" width="0.218222234810423" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="459.41576312401486" y="0" width="0.5842368759850592" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -588,7 +556,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 75 commits)</small>
+                    <small class="h-details">(computed from last 77 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -4959,6 +4927,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#8c10c6a</div>
+                                        <div class="message">Udpate starship.toml time format</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Anonoei/anosh</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4935afd</div>
+                                        <div class="message">Add blerc in ash_config.sh</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Anonoei/anosh</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#c829672</div>
                                         <div class="message">Anobash check if blesh works before sourcing</div>
                                     </div>
@@ -5001,46 +5009,6 @@
                                     <div class="commit">
                                         <div class="sha">#0f9a755</div>
                                         <div class="message">Switch anobash ble.sh source position</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Anonoei/anosh</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5360d6a</div>
-                                        <div class="message">Optimize nix installs,  add ble.sh to anobash</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Anonoei/anosh</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#670bbdc</div>
-                                        <div class="message">Add fi</div>
                                     </div>
                                 </div>
                             </section>
@@ -5137,7 +5105,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 May 2024, 22:01:32 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 May 2024, 23:01:39 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
