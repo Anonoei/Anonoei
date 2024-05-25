@@ -23,6 +23,10 @@
 ^^~:.:::::::::..:.....          .....:. :::::::::.:\~\~\~.     0x416e6f6e6f6569
 ```
  I make stuff
+
+<p align="left"><img src="https://raw.githubusercontent.com/Anonoei/Anonoei/main/github-metrics.svg" /></p>
+
+
 - Organization: Quverus LLC
    - [Website (quver.us)](https://quver.us)
    - [GitHub](https://quver.us/github)
