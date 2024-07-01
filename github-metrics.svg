@@ -203,7 +203,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    735 views in last two weeks
+                                    736 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -245,45 +245,37 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,25.89636425416242)">
+                            <g class="tick" opacity="1" transform="translate(0,36.329210874947364)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">40k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">600k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,54.67227319062182)">
+                            <g class="tick" opacity="1" transform="translate(0,71.21947391663159)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">30k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">400k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,83.4481821270812)">
+                            <g class="tick" opacity="1" transform="translate(0,106.10973695831578)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">20k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,112.2240910635406)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">10k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">200k</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,141)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,169.7759089364594)">
+                            <g class="tick" opacity="1" transform="translate(0,175.8902630416842)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−10k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−200k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,198.5518178729188)">
+                            <g class="tick" opacity="1" transform="translate(0,210.78052608336841)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−20k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−400k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,227.3277268093782)">
+                            <g class="tick" opacity="1" transform="translate(0,245.67078912505264)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−30k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,256.10363574583755)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−40k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−600k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L92.6,140.5L114.04,140.5L135.48,140.5L194.44,140.5L205.16,140.5L231.96,140.5L237.32,140.5L242.68,140.5L248.04,140.5L253.4,140.5L258.76,140.5L290.92,140.5L307,140.5L312.36,140.5L317.72,140.5L323.08,140.5L349.88,140.5L387.4,140.5L398.12,140.5L403.48,140.5L408.84,140.5L414.2,140.5L419.56,140.5L424.92,140.5L435.64,140.5L441,140.5L441,94.272L435.64,139.752L424.92,140.46L419.56,140.474L414.2,109.097L408.84,132.44L403.48,112.619L398.12,129.649L387.4,5L349.88,72.856L323.08,140.488L317.72,139.878L312.36,136.998L307,96.027L290.92,138.943L258.76,109.816L253.4,140.44L248.04,140.488L242.68,139.461L237.32,137.801L231.96,137.375L205.16,140.437L194.44,139.501L135.48,139.099L114.04,107.189L92.6,122.639L39,140.276Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L92.6,140.5L114.04,140.5L135.48,140.5L194.44,140.5L205.16,140.5L231.96,140.5L237.32,140.5L242.68,140.5L248.04,140.5L253.4,140.5L258.76,140.5L290.92,140.5L307,140.5L312.36,140.5L317.72,140.5L323.08,140.5L349.88,140.5L387.4,140.5L398.12,140.5L403.48,140.5L408.84,140.5L414.2,140.5L419.56,140.5L424.92,140.5L435.64,140.5L441,140.5L441,141.254L435.64,140.745L424.92,140.667L419.56,140.517L414.2,150.569L408.84,144.649L403.48,155.518L398.12,143.524L387.4,208.028L349.88,140.512L323.08,140.506L317.72,140.558L312.36,143.297L307,163.515L290.92,140.506L258.76,169.008L253.4,140.546L248.04,140.506L242.68,141.099L237.32,141.991L231.96,141.709L205.16,140.575L194.44,142.224L135.48,140.684L114.04,151.907L92.6,141.191L39,140.618Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L92.6,140.5L114.04,140.5L135.48,140.5L194.44,140.5L205.16,140.5L231.96,140.5L242.68,140.5L248.04,140.5L253.4,140.5L258.76,140.5L264.12,140.5L296.28,140.5L307,140.5L312.36,140.5L317.72,140.5L323.08,140.5L349.88,140.5L355.24,140.5L387.4,140.5L398.12,140.5L403.48,140.5L408.84,140.5L414.2,140.5L419.56,140.5L424.92,140.5L435.64,140.5L441,140.5L441,139.795L435.64,140.455L424.92,140.498L419.56,140.498L414.2,138.596L408.84,140.016L403.48,138.81L398.12,140.499L387.4,132.285L355.24,140.499L349.88,136.399L323.08,140.5L317.72,140.467L312.36,140.288L307,140.27L296.28,5L264.12,140.497L258.76,138.543L253.4,140.497L248.04,140.314L242.68,140.373L231.96,140.311L205.16,140.496L194.44,140.439L135.48,140.415L114.04,138.481L92.6,139.417L39,140.486Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L92.6,140.5L114.04,140.5L135.48,140.5L194.44,140.5L205.16,140.5L231.96,140.5L242.68,140.5L248.04,140.5L253.4,140.5L258.76,140.5L264.12,140.5L296.28,140.5L307,140.5L312.36,140.5L317.72,140.5L323.08,140.5L349.88,140.5L355.24,140.5L387.4,140.5L398.12,140.5L403.48,140.5L408.84,140.5L414.2,140.5L419.56,140.5L424.92,140.5L435.64,140.5L441,140.5L441,140.546L435.64,140.515L424.92,140.51L419.56,140.501L414.2,141.11L408.84,140.714L403.48,141.41L398.12,140.501L387.4,144.594L355.24,140.5L349.88,140.501L323.08,140.5L317.72,140.503L312.36,140.67L307,140.712L296.28,140.503L264.12,140.501L258.76,142.307L253.4,140.504L248.04,140.574L242.68,140.528L231.96,140.573L205.16,140.505L194.44,140.604L135.48,140.511L114.04,141.192L92.6,140.542L39,140.507Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -5055,7 +5047,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~16 coding hours recorded
+                            ~17 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -5085,27 +5077,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">anosh</span>
-                                <div class="bar" style="width: 26.327999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 26.104000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">33%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">alephpy</span>
-                                <div class="bar" style="width: 16.456%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 16.991999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">21%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">anonv</span>
-                                <div class="bar" style="width: 12.24%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 12.136%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">15%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">pysect</span>
-                                <div class="bar" style="width: 10.872%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">14%</span>
+                                <div class="bar" style="width: 10.784%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">sketchypy</span>
-                                <div class="bar" style="width: 8.024000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 7.959999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                         </div>
@@ -5115,27 +5107,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 35.568%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 35.336000000000006%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">44%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 20.215999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 20.04%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">25%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Lua</span>
-                                <div class="bar" style="width: 9.192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 9.112%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">11%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 4.36%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.32%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TOML</span>
-                                <div class="bar" style="width: 3.3840000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.3520000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                         </div>
@@ -5157,13 +5149,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Mac</span>
-                                <div class="bar" style="width: 42.304%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">53%</span>
+                                <div class="bar" style="width: 41.944%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">52%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Linux</span>
-                                <div class="bar" style="width: 37.696%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">47%</span>
+                                <div class="bar" style="width: 38.056%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">48%</span>
                             </div>
                         </div>
                     </section>
@@ -5171,7 +5163,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jul 2024, 10:01:27 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Jul 2024, 11:01:48 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
