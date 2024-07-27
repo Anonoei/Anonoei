@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            392 Commits
+                            393 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -249,37 +249,45 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,36.329210874947364)">
+                            <g class="tick" opacity="1" transform="translate(0,25.89636425416242)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">600k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">40k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,71.21947391663159)">
+                            <g class="tick" opacity="1" transform="translate(0,54.67227319062182)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">400k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">30k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,106.10973695831578)">
+                            <g class="tick" opacity="1" transform="translate(0,83.4481821270812)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">200k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">20k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,112.2240910635406)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">10k</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,141)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,175.8902630416842)">
+                            <g class="tick" opacity="1" transform="translate(0,169.7759089364594)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−200k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−10k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,210.78052608336841)">
+                            <g class="tick" opacity="1" transform="translate(0,198.5518178729188)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−400k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−20k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,245.67078912505264)">
+                            <g class="tick" opacity="1" transform="translate(0,227.3277268093782)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−600k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−30k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,256.10363574583755)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−40k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L89.886,140.5L110.241,140.5L130.595,140.5L186.57,140.5L196.747,140.5L222.19,140.5L227.278,140.5L232.367,140.5L237.456,140.5L242.544,140.5L247.633,140.5L252.722,140.5L278.165,140.5L283.253,140.5L293.43,140.5L298.519,140.5L303.608,140.5L308.696,140.5L334.139,140.5L339.228,140.5L369.759,140.5L379.937,140.5L385.025,140.5L390.114,140.5L395.203,140.5L400.291,140.5L405.38,140.5L415.557,140.5L420.646,140.5L425.734,140.5L441,140.5L441,139.576L425.734,140.499L420.646,137.771L415.557,140.455L405.38,140.498L400.291,140.498L395.203,138.596L390.114,140.011L385.025,138.81L379.937,139.842L369.759,132.285L339.228,140.499L334.139,136.399L308.696,140.499L303.608,140.462L298.519,140.22L293.43,140.27L283.253,5L278.165,140.406L252.722,140.497L247.633,138.535L242.544,140.494L237.456,140.313L232.367,140.31L227.278,140.336L222.19,140.311L196.747,140.496L186.57,140.439L130.595,140.415L110.241,138.481L89.886,139.417L39,140.486Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L89.886,140.5L110.241,140.5L130.595,140.5L186.57,140.5L196.747,140.5L222.19,140.5L227.278,140.5L232.367,140.5L237.456,140.5L242.544,140.5L247.633,140.5L252.722,140.5L278.165,140.5L283.253,140.5L293.43,140.5L298.519,140.5L303.608,140.5L308.696,140.5L334.139,140.5L339.228,140.5L369.759,140.5L379.937,140.5L385.025,140.5L390.114,140.5L395.203,140.5L400.291,140.5L405.38,140.5L415.557,140.5L420.646,140.5L425.734,140.5L441,140.5L441,140.719L425.734,140.502L420.646,140.52L415.557,140.515L405.38,140.51L400.291,140.501L395.203,141.11L390.114,140.752L385.025,141.41L379.937,140.683L369.759,144.594L339.228,140.5L334.139,140.501L308.696,140.5L303.608,140.504L298.519,140.675L293.43,140.712L283.253,140.503L278.165,140.5L252.722,140.501L247.633,142.308L242.544,140.507L237.456,140.574L232.367,140.565L227.278,140.59L222.19,140.573L196.747,140.505L186.57,140.604L130.595,140.511L110.241,141.192L89.886,140.542L39,140.507Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L89.886,140.5L110.241,140.5L130.595,140.5L186.57,140.5L196.747,140.5L222.19,140.5L227.278,140.5L232.367,140.5L237.456,140.5L242.544,140.5L247.633,140.5L278.165,140.5L298.519,140.5L303.608,140.5L308.696,140.5L334.139,140.5L369.759,140.5L379.937,140.5L390.114,140.5L395.203,140.5L400.291,140.5L405.38,140.5L415.557,140.5L420.646,140.5L425.734,140.5L441,140.5L441,140.445L425.734,140.477L420.646,128.86L415.557,139.752L405.38,140.46L400.291,138.771L395.203,134.066L390.114,139.09L379.937,129.649L369.759,5L334.139,72.856L308.696,140.488L303.608,139.737L298.519,136.998L278.165,138.943L247.633,109.816L242.544,140.44L237.456,140.488L232.367,139.461L227.278,137.801L222.19,137.375L196.747,140.437L186.57,139.501L130.595,139.099L110.241,107.189L89.886,122.639L39,140.276Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L89.886,140.5L110.241,140.5L130.595,140.5L186.57,140.5L196.747,140.5L222.19,140.5L227.278,140.5L232.367,140.5L237.456,140.5L242.544,140.5L247.633,140.5L278.165,140.5L298.519,140.5L303.608,140.5L308.696,140.5L334.139,140.5L369.759,140.5L379.937,140.5L390.114,140.5L395.203,140.5L400.291,140.5L405.38,140.5L415.557,140.5L420.646,140.5L425.734,140.5L441,140.5L441,140.54L425.734,140.535L420.646,141.257L415.557,140.745L405.38,140.667L400.291,140.52L395.203,145.113L390.114,141.752L379.937,143.524L369.759,208.028L334.139,140.512L308.696,140.506L303.608,140.563L298.519,143.297L278.165,140.506L247.633,169.008L242.544,140.546L237.456,140.506L232.367,141.099L227.278,141.991L222.19,141.709L196.747,140.575L186.57,142.224L130.595,140.684L110.241,151.907L89.886,141.191L39,140.618Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -400,14 +408,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="436.4113223334503" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="436.4113223334503" y="0" width="10.138753095074412" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="446.5500754285247" y="0" width="8.875435901495829" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="455.4255113300205" y="0" width="0.9287274267399952" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="456.35423875676054" y="0" width="0.8421101556358936" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="457.19634891239645" y="0" width="0.8313672355126848" height="8" fill="#44a51c"/>
-                    <rect mask="url(#languages-bar)" x="458.02771614790913" y="0" width="0.5504259996706861" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.5781421475798" y="0" width="1.4218578524202334" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="436.4150567092038" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="436.4150567092038" y="0" width="10.137148006639004" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="446.55220471584283" y="0" width="8.874030811600539" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="455.42623552744334" y="0" width="0.9285803978461727" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="456.35481592528953" y="0" width="0.8419768393139084" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="457.1967927646034" y="0" width="0.8312356199261539" height="8" fill="#44a51c"/>
+                    <rect mask="url(#languages-bar)" x="458.02802838452953" y="0" width="0.5503388605128098" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.57836724504233" y="0" width="1.421632754957625" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -548,12 +556,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 6 commits)</small>
+                    <small class="h-details">(computed from last 7 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 51.1 characters per line of code written</li>
+                        <li>Has approximately 48.8 characters per line of code written</li>
                         <li>Mostly pushes code around 01:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -4988,6 +4996,33 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Anonoei/RPPS</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cc1fb8c</div>
+                                        <div class="message">Restructure Meta
+Improve Meta class and subclasses
+Move main child classes into parent file
+Add 'init_meta' function to parents
+Add _Meta subclasses for parents
+Move modulation mappings outside of modulation child class
+Write meta.short() and meta json when serializing
+Add filedialog viz for picking files</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">Anonoei/RPPS</span>
                                     </div>
@@ -5051,26 +5086,6 @@
                                         Created new
                       repository
                                         <span class="repo">Anonoei/RPPS</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Anonoei/anosh</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1ba44bc</div>
-                                        <div class="message">ensure ash update will always work</div>
                                     </div>
                                 </div>
                             </section>
@@ -5207,7 +5222,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jul 2024, 22:00:59 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jul 2024, 23:01:33 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
